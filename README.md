@@ -1,3 +1,11 @@
+<!-- ================= HERO IMAGE ================= -->
+
+<p align="center">
+  <img src="download.gif" width="85%" />
+</p>
+
+---
+
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Krish</h1>
