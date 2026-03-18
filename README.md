@@ -39,8 +39,6 @@ Focus:
 
 <!-- ================= PROJECTS ================= -->
 
-<!-- ================= PROJECTS ================= -->
-
 ## 📂 Projects
 
 ### 🛒 Clothzy (E-commerce Platform)
@@ -48,7 +46,7 @@ Focus:
 **Tech:** React.js, JavaScript, FastAPI (in progress), MySQL
 
 **Description:**
-Full-stack e-commerce application with dynamic frontend, global cart management, and role-based backend system for sellers and customers. 
+Full-stack e-commerce application with dynamic frontend, global cart management, and role-based backend system for sellers and customers.
 
 ---
 
@@ -57,14 +55,13 @@ Full-stack e-commerce application with dynamic frontend, global cart management,
 **Tech:** React.js, JavaScript, Redux Toolkit
 
 **Description:**
-Multi-page food ordering platform with dynamic restaurant data, search, filtering, and real-time cart functionality. 
+Multi-page food ordering platform with dynamic restaurant data, search, filtering, and real-time cart functionality.
 
 ---
 
 ### 🔄 Upcoming Projects
 
 Currently working on adding more structured full-stack projects with improved backend systems.
-
 
 ---
 
@@ -75,20 +72,6 @@ Currently working on adding more structured full-stack projects with improved ba
 * DSA practice
 * JavaScript concepts
 * Backend development
-
----
-
-<!-- ================= CONNECT ================= -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/krishmajhi_" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krishmajhi_" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/krish-majhi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krish-majhi" height="30" width="40" />
-</a>
-</p>
 
 ---
 
