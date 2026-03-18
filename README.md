@@ -15,9 +15,6 @@ I’m a **Full Stack Developer (Fresher)** working on building real-world projec
 * Working with **React and JavaScript** for frontend
 * Learning **DSA, APIs, and backend architecture**
 
-**Goal:**
-To get a developer role in the next 3–6 months by improving my skills and projects.
-
 ---
 
 <!-- ================= CURRENT WORK ================= -->
